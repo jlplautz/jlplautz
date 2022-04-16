@@ -1,6 +1,6 @@
 ### Hello there 👋 Wellcome to my Github account
 
-- 🔭 I’m currently working on Carritech - UK, supporting Core Mobile System - CVT
+- 🔭 I’m currently working on Vertis-Solutions, supporting Core Mobile System
 - 🌱 I’m currently learning Python and Django FrameWork
 - 🤔 I’m looking for job Python Developer
 
