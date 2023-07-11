@@ -1,6 +1,7 @@
 ### Hello there 👋 Wellcome to my Github account
 
-- 🔭 I’m currently working on Vertis-Solutions, supporting Core Mobile System
+- 🔭 I’m currently working home, develping a project to LUCHTRANSPORTES
+  ** Ir is a Django web aplication to show Freigth Truck performance.
 - 🌱 I’m currently learning Python and Django FrameWork
 - 🤔 I’m looking for job Python Developer
 
